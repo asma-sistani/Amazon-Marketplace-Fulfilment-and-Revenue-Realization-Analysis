@@ -83,7 +83,7 @@
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">حدود ۷۰٪ کل درآمد تحقق‌نیافته است</td>
+       <td style="padding: 10px; border: 1px solid #ddd;">حدود ۷۰٪ از کل درآمد، مربوط به درآمد تحقق‌نیافته در سفارش‌های Amazon Fulfilled است</td>
         <td style="padding: 10px; border: 1px solid #ddd;">سفارش‌ها ثبت شده‌اند اما به دلیل تأخیر در ارسال، وجهی دریافت نشده است</td>
         <td style="padding: 10px; border: 1px solid #ddd;"><strong>بالاترین اولویت:</strong> اصلاح فرآیند ارسال برای آزادسازی نقدینگی بلوکه شده</td>
       </tr>
