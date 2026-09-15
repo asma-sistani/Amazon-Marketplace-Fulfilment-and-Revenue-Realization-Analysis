@@ -86,7 +86,7 @@ This analysis aims to answer three operational questions critical for marketplac
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">~70% of total revenue is unrealized</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">~70% of total revenue is unrealized in Amazon-fulfilled orders</td>
         <td style="padding: 10px; border: 1px solid #ddd;">Orders are created but cash has not been collected due to delivery delays</td>
         <td style="padding: 10px; border: 1px solid #ddd;"><strong>Highest priority:</strong> Fix fulfilment execution to unlock trapped cash</td>
       </tr>
