@@ -91,9 +91,9 @@ This analysis aims to answer three operational questions critical for marketplac
         <td style="padding: 10px; border: 1px solid #ddd;"><strong>Highest priority:</strong> Fix fulfilment execution to unlock trapped cash</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Only 22.41% of orders are delivered</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Very low order-to-cash conversion despite strong demand</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Indicates weak operational performance, not a demand issue</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Only 22.41% of total revenue comes from delivered orders</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Only a small share of recorded revenue is realized through delivered orders despite strong demand</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Highlights a significant operational challenge in converting recorded orders and revenue into realized revenue</td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">Amazon-fulfilled orders show severe delivery delays</td>
