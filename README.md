@@ -359,6 +359,7 @@ Turning operational complexity into clear, commercially relevant insight.
 
 ---
 
+
 **This project demonstrates the transition from “what happened” to “what we should do” — focusing on revenue realization rather than just order volume.**
 
 ----
