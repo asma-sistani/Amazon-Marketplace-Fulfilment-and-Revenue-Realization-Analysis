@@ -101,9 +101,9 @@ This analysis aims to answer three operational questions critical for marketplac
         <td style="padding: 10px; border: 1px solid #ddd;">Fulfilment execution is the key operational risk</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Merchant-fulfilled orders achieve 87.47% delivery rate</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Alternative fulfilment performs significantly better</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Opportunity to rebalance or hybridize fulfilment strategy</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Merchant-fulfilled orders achieve 73.68% delivery rate</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Merchant fulfilment performs significantly better on delivered orders</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Merchant fulfilment can serve as an operational benchmark for comparison</td>
       </tr>
       <tr>
         <td style="padding: 10px; border: 1px solid #ddd;">61% of orders use promotions</td>
@@ -144,9 +144,9 @@ This analysis aims to answer three operational questions critical for marketplac
 - **Cancellation Rate:** 13.8%
 - **Returned Rate:** 1.67%
 - **In-Progress Rate:** 62.12%
-- **Unrealized Revenue (Amazon):** 57.9M INR (~69.6% of total revenue)
+- **Unrealized Revenue from Amazon-fulfilled orders:** 57.9M INR (~69.6% of total revenue)
 
-The majority of orders remain in-progress, explaining why a large share of recorded revenue has not yet been realized as cash.
+The majority of revenue comes from in-progress orders, explaining the high level of unrealized revenue.
 
 ---
 
@@ -176,7 +176,7 @@ The majority of orders remain in-progress, explaining why a large share of recor
         <td align="center" style="padding: 10px; border: 1px solid #ddd;">High</td>
       </tr>
       <tr>
-        <td style="padding: 10px; border: 1px solid #ddd; text-align: left;">Remove the bottom 12.6% low-rotation or dead SKUs to simplify the catalogue</td>
+        <td style="padding: 10px; border: 1px solid #ddd; text-align: left;">Remove the bottom 12.6% low-rotation and dead SKUs to simplify the catalogue</td>
         <td align="center" style="padding: 10px; border: 1px solid #ddd;">Medium</td>
         <td align="center" style="padding: 10px; border: 1px solid #ddd;">Low</td>
         <td align="center" style="padding: 10px; border: 1px solid #ddd;">High</td>
